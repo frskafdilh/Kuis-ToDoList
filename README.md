@@ -1,16 +1,13 @@
-# React + Vite
+# Screenshot Hasil Implementasi To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Halaman Todo List
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 234206" src="https://github.com/user-attachments/assets/d18d4bd6-565d-48f4-bbd1-e9d5e45e4811" />
 
-Currently, two official plugins are available:
+## 2. Form Tambah Todo
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 234347" src="https://github.com/user-attachments/assets/d541ceac-15dd-4602-9a5f-b77f97c9ed24" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 3. Halaman Detail Todo
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 234425" src="https://github.com/user-attachments/assets/6e00f9be-31e5-4b47-b020-f0f2c6c50f3d" />
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 4. Form Update Todo
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 234458" src="https://github.com/user-attachments/assets/ab76c6f6-1ed5-4b87-85d6-619a1215a2e5" />
